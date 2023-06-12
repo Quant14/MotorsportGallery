@@ -8,8 +8,8 @@ import axios from 'axios';
 
 AWS.config.update({
   region: 'eu-central-1',
-  accessKeyId: 'AKIA4V4XOMTSF4MXOA2P',
-  secretAccessKey: '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'
+  accessKeyId: 'secret',
+  secretAccessKey: 'secret'
 });
 
 const App = () => {
